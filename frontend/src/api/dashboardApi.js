@@ -1,4 +1,4 @@
-const API_URL = "https://analytics-dashboard-uugo.onrender.com/api/dashboard/";
+const API_URL = "https://analytics-dashboard-uugo.onrender.com/api";
 
 export async function fetchDashboardData({
   page,
